@@ -1,4 +1,4 @@
-# ProjetoAPI4
+# Projeto Integrador - API4
 
 Nós, alunos do 3º semestre do curso de Logística da Fatec, desenvolvemos este projeto com o propósito acadêmico de complementar e aprimorar nossa capacidade analítica e logística, envolvendo a prática da interdisciplinaridade. O Projeto é baseado na metodologia ágil SCRUM, buscando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
 
@@ -17,9 +17,7 @@ Nós, alunos do 3º semestre do curso de Logística da Fatec, desenvolvemos este
 * [Método de transportes](#Método-de-transportes) 
 
 # Projeto (API) 
-O nosso parceiro acadêmico solicitou a equipe que identificasse a produtividade dos veículos de cada rota de uma empresa embarcadora de carga, levando em consideração que ela trabalha com um limite de 2 tipos de caminhões. Além disso, o grupo precisa otimizar os custos totais do ano de 2023, através do método de transporte, e compará-los com dados reais do mesmo ano, identificando se o resultado dessa empresa foi positivo ou negativo.
-O método de transporte é uma técnica de programação linear utilizada para otimizar a distribuição de recursos de uma fonte para múltiplos destinos, minimizando os custos totais de transportes.
-
+O nosso parceiro acadêmico solicitou a equipe que identificasse 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                       |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
