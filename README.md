@@ -68,12 +68,12 @@ Este projeto tem como objetivo analisar a eficiência operacional do sistema por
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 08/03/2024 | concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG003.A994.N.074.146.20241/Shared%20Documents/General/Kickoff/Kick-off%20API%203N.pptx?d=w5c20a440e6554963941a202617bdd6d4&csf=1&web=1&e=wXXBlM) | 
-|01 | 19/04/2024 | concluído | [Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/2b1ec382e3fa8c94b286c73e3772dcd60a1c795d/RELAT%C3%93RIO%20SPRINT%201.pdf) | 
-|02|  10/05/2024| concluído |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/46389e039e3c8987254460a95131d1c3ce82c2bf/RELAT%C3%93RIO%202.pdf) | 
-|03|  07/06/2024 | concluído |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/9f7c8c5eaeb4a7046b96210fa9a8fbdded046d47/RELAT%C3%93RIO%203.pdf) | 
-|04|  21/06/2024 | concluído |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/48d7eaec49e91dd9ee92720e098a15f446de91fa/RELAT%C3%93RIO%204.pdf)  | 
-|Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/17aed8648660c88382e8edead8be521be1bb64a1/Feira_Solucoes.pptx) | 
+|Kick Off | 03/09/2024 | concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG003.A994.N.074.146.20241/Shared%20Documents/General/Kickoff/Kick-off%20API%203N.pptx?d=w5c20a440e6554963941a202617bdd6d4&csf=1&web=1&e=wXXBlM) | 
+|01 | 27/09/2024 | em andamento | [Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/2b1ec382e3fa8c94b286c73e3772dcd60a1c795d/RELAT%C3%93RIO%20SPRINT%201.pdf) | 
+|02|  18/10/2024| a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/46389e039e3c8987254460a95131d1c3ce82c2bf/RELAT%C3%93RIO%202.pdf) | 
+|03|  08/11/2024 | a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/9f7c8c5eaeb4a7046b96210fa9a8fbdded046d47/RELAT%C3%93RIO%203.pdf) | 
+|04|  29/11/2024 | a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/48d7eaec49e91dd9ee92720e098a15f446de91fa/RELAT%C3%93RIO%204.pdf)  | 
+|Feira de Soluções|12/12/2024 |a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/17aed8648660c88382e8edead8be521be1bb64a1/Feira_Solucoes.pptx) | 
 
 
 # Requisitos
