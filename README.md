@@ -33,7 +33,7 @@ Por fim, o projeto visa rankear de eficiência dos 10 principais terminais de mo
 |  Team Member  | Luan Costa               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luan-costa-62a24822b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo analisar a produtividade de veículos e otimizar custos de rotas de uma empresa embarcadora de carga, visando:
+Este projeto tem como objetivo analisar a eficiência operacional do sistema portuário brasileiro:
 * Analisar a variação mensal da prancha média operacional de carregamento e desenvolver um modelo de projeção com base em tendências;
 * Avaliar a distribuição dos tempos de operação para carregamento de granéis no berço;
 * Elaborar um ranking de eficiência dos 10 principais terminais de movimentação de granéis;
