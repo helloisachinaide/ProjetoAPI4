@@ -21,6 +21,7 @@ O nosso parceiro acadêmico solicitou a equipe que analisasse a eficiência oper
 Primeiramente, busca-se entender a variação da prancha média operacional de carregamento de granéis (t/h) mensalmente dos anos includos, desenvolvendo um modelo de projeção baseado em tendências tanto para analisar quanto prever futuros desempenhos.
 Em segundo lugar, pretende-se avaliar a distribuição estatística dos tempos portuários de operação no berço, a fim de identificar padrões e variações na eficiência de carregamento. 
 Por fim, o projeto visa rankear de eficiência dos 10 principais terminais de movimentação de granéis, com base na quantidade de berços disponíveis e na prancha média operacional, proporcionando uma visão clara sobre a performance relativa desses terminais e possibilitando a identificação dos mais eficientes.
+
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                       |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -33,10 +34,11 @@ Por fim, o projeto visa rankear de eficiência dos 10 principais terminais de mo
 
 # Objetivo do Projeto
 Este projeto tem como objetivo analisar a produtividade de veículos e otimizar custos de rotas de uma empresa embarcadora de carga, visando:
-* Organizar e estruturar os dados;
-* Aplicar do método de transportes para otimização da distribuição;
-* Identificar os custos por KM de cada rota;
-* Identificar os custos por unidade transportada de cada rota ;
+* Analisar a variação mensal da prancha média operacional de carregamento e desenvolver um modelo de projeção com base em tendências;
+* Avaliar a distribuição dos tempos de operação para carregamento de granéis no berço;
+* Elaborar um ranking de eficiência dos 10 principais terminais de movimentação de granéis;
+* Criar um dashboard para apresentar os resultados da análise e ranking de forma clara e informativa;
+* Utilizar ferramentas como R, Python para criar a analise desta modelagem;
 * Desenvolver habilidades técnicas das tecnologias utilizadas
 
 ## Tecnologias Utilizadas
