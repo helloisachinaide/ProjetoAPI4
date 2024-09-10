@@ -38,7 +38,7 @@ Este projeto tem como objetivo analisar a eficiência operacional do sistema por
 * Avaliar a distribuição dos tempos de operação para carregamento de granéis no berço;
 * Elaborar um ranking de eficiência dos 10 principais terminais de movimentação de granéis;
 * Criar um dashboard para apresentar os resultados da análise e ranking de forma clara e informativa;
-* Utilizar ferramentas como R, Python para criar a analise desta modelagem;
+* Utilizar ferramentas como R para criar a analise desta modelagem;
 * Desenvolver e aplicar a metodologia DEA (Data Envelopment Analysis)
 
 * Desenvolver habilidades técnicas das tecnologias utilizadas
