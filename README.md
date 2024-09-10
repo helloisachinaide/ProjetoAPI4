@@ -14,7 +14,7 @@ Nós, alunos do 4º semestre do curso de Logística da Fatec, desenvolvemos este
 * [Backlog do produto](#Backlog-do-produto)
 * [MVP do produto](#mvp-do-produto)
 * [Dashboard](#dashboard)
-* [Método de transportes](#Método-de-transportes) 
+* [Método DEA ](#Método-DEA) 
 
 # Projeto (API) 
 O nosso parceiro acadêmico solicitou a equipe que analisasse a eficiência operacional do sistema portuário brasileiro referente aos anos de 2014 a 2023, especificamente sobre o carregamento de granéis, abrangendo três áreas principais.
@@ -134,7 +134,7 @@ Clique aqui para analisar o nosso desenvolvimento do dashboard:
 
 <a href="https://app.powerbi.com/links/hMMzcKf_R6?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare"> Power BI  </a>
 
-# Método de transportes 
+# Método DEA 
 
 Clique aqui para acessar o código:
 
