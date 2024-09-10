@@ -81,13 +81,14 @@ Sprint | Previsão | Status| Histórico|
 Requisitos funcionais 
 - Desenvolvimento de estrutura relacional de dados em SQL
 - Criação de um dashboard para visualização dos dados apresentados
+- Metodologia DEA
 - Documentação no Github e gestão de projetos desenvolvido no Jira Software
 - Relatórios 
 
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
-- Power BI / Jira / SQL / Python
+- Power BI / Jira / SQL / Linguagem R 
   
 # Backlog do produto
   
