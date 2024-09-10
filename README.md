@@ -58,6 +58,8 @@ Este projeto tem como objetivo analisar a eficiência operacional do sistema por
   <img align="center" alt="sql" heigh="50" width="160" src="https://github.com/helloisachinaide/ProjetoAPI3/blob/a2054094cd2b5602e88d2a4cca27aba7a11ab1d7/.img/Mysql_logo.png"> 
 
    <img align="center" alt="sql" heigh="50" width="160" src="https://github.com/helloisachinaide/ProjetoAPI3/blob/75ac2835e93f2b2062435bc27d293dbf791db214/colab.jpg"> 
+
+   <img align="center" alt="sql" heigh="40" width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"> 
   
 
  </div>
