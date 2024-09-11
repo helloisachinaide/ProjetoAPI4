@@ -94,11 +94,12 @@ Requisitos não funcionais
   
 # Backlog do produto
   
-<div align="center">
-    
-![product backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/759dbaa464a19e17f4692633b0baca3039c279ef/technolog%20(5).jpg)
-
-![sprints ](https://github.com/helloisachinaide/ProjetoAPI3/blob/27ac254708238ac64e5e7904510890bbc221f74f/technolog%20(4).jpg) 
+   - Calcular a prancha média operacional mensal
+   - Calcular o tempo de processamento e espera 
+   - Projeção estatísticas dos terminais portuários
+   - Elaborar de um ranking de eficiência para os 10 principais terminais de movimentação de graneis de milho
+   - Projeção de tendência da produtividade dos shiploaders
+   - Rankeamento dos portos por meio da aplicação do DEA
 
 
 </div>
