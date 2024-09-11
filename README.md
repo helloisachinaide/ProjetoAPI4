@@ -81,11 +81,12 @@ Sprint | Previsão | Status| Histórico|
 # Requisitos
 
 Requisitos funcionais 
-- Desenvolvimento de estrutura relacional de dados em SQL
-- Criação de um dashboard para visualização dos dados apresentados
-- Metodologia DEA
-- Documentação no Github e gestão de projetos desenvolvido no Jira Software
-- Relatórios 
+- Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023
+- Interface em BI para avaliação de indicadores portuários (tempos de processamento e espera, produção dos shiploaders em termos de processamento por hora)
+- Modelo de projeção de tendência da produtividade dos shiploaders
+- Compartilhamento do código pelo Google COLAB
+- Rankeamento dos portos por meio da aplicação do DEA
+
 
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
