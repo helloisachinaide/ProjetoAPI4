@@ -113,12 +113,7 @@ Requisitos não funcionais
 
 ![sprint backlog]()
 
-- SPRINT 2
 
-![sprint backlog]()
-
-- SPRINT 3
-![sprint backlog]()
 
 
 # MVP do produto
@@ -126,7 +121,7 @@ Apresentação das funcionalidades dos dashboards:
 
 ![image]()
 
-![image]()
+
 
 # Dashboard
 
