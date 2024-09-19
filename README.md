@@ -124,20 +124,20 @@ Requisitos não funcionais
 # MVP do produto
 Apresentação das funcionalidades dos dashboards: 
 
-![image](https://github.com/helloisachinaide/ProjetoAPI3/blob/f77ccf89a2938c27cb3ebead319491972112e590/projeto3sem.gif)
+![image]()
 
-![image](https://github.com/helloisachinaide/ProjetoAPI3/blob/e318f6c22aaa1bad47daa22e61b66549967b4bda/Design%20sem%20nome%20(2).gif)
+![image]()
 
 # Dashboard
 
 Clique aqui para analisar o nosso desenvolvimento do dashboard:
 
-<a href="https://app.powerbi.com/links/hMMzcKf_R6?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare"> Power BI  </a>
+<a href=""> Power BI  </a>
 
 # Método DEA 
 
 Clique aqui para acessar o código:
 
-<a href="https://colab.research.google.com/drive/189SO7cWziY5hnV6K1W5f-04zCCzJsCIa#scrollTo=Zw4VtqcEKH9l"> Otimização 2023  </a>
+<a href="">   </a>
 
-<a href="https://github.com/helloisachinaide/ProjetoAPI3/blob/869867265196d36fa6ae702d055f08de9d616d63/otimiza%C3%A7ao_2024.ipynb"> Otimização 2024  </a>
+<a href="">   </a>
