@@ -68,7 +68,7 @@ Este projeto tem como objetivo analisar a eficiência operacional do sistema por
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 03/09/2024 | concluído| [Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI4/blob/786bf12f7b34a2fef8263c45b2a6895f7c8fe9b5/Kick-off%20API%204.pptx) | 
+|Kick Off | 03/09/2024 | concluído| [Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI4/blob/a7efe809947d6a92951321e9f4f69c2a47b57eb2/Kick-off%20API%204.pptx) | 
 |01 | 27/09/2024 | em andamento | [Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/2b1ec382e3fa8c94b286c73e3772dcd60a1c795d/RELAT%C3%93RIO%20SPRINT%201.pdf) | 
 |02|  18/10/2024| a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/46389e039e3c8987254460a95131d1c3ce82c2bf/RELAT%C3%93RIO%202.pdf) | 
 |03|  08/11/2024 | a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/9f7c8c5eaeb4a7046b96210fa9a8fbdded046d47/RELAT%C3%93RIO%203.pdf) | 
