@@ -31,6 +31,7 @@ Por fim, o projeto visa rankear de eficiência dos 10 principais terminais de mo
 |  Team Member  | Christopher Leão                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-le%C3%A3o-1953871a9/)
 |  Team Member  | Vinícius Tomé                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-stomé) 
 |  Team Member  | Luan Costa               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luan-costa-62a24822b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+|  Team Member  | Victor Teixeira               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-teixeira-a698b62a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo analisar a eficiência operacional do sistema portuário brasileiro:
