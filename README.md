@@ -101,6 +101,34 @@ Requisitos não funcionais
    - Projeção de tendência da produtividade dos shiploaders
    - Rankeamento dos portos por meio da aplicação do DEA
 
+     #### Sprint 1
+- [x] Criar backlogs
+- [x] Criação do Repositório no GitHub
+- [x] Tratar dados no SQL 
+- [x] Estudar linguagem de programação R
+- [x] Desenvolvimento e aprendizagem da metodologia DEA
+
+#### Sprint 2
+- [ ] Calcular a prancha média operacional mensal
+- [ ] Criar gráfico de tendência do produto
+- [ ] Calcular o tempo de processamento e espera dos shiploaders
+- [ ] Aplicação do Filtro pela carga selecionada
+- [ ] Desenvolvimento protótipo do dashboard
+
+#### Sprint 3
+- [ ] Elaborar de um ranking de eficiência para os 10 principais terminais de movimentação de graneis de milho
+- [ ] Projeção estatísticas dos terminais portuários
+- [ ] Criação do código para analisar tempo de operação
+- [ ] Análise do tempo de espera para atracação
+- [ ] Rankeamento dos portos por meio da aplicação do DEA
+- [ ] Projeção de tendência da produtividade dos shiploaders
+
+
+#### Sprint 4
+- [ ] Criação da visualização final em Power BI
+- [ ] Finalização da estrutura 
+
+
 
 </div>
 
