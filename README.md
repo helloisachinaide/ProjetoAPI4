@@ -71,10 +71,10 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 03/09/2024 | concluído| [Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI4/blob/a7efe809947d6a92951321e9f4f69c2a47b57eb2/Kick-off%20API%204.pptx) | 
 |01 | 27/09/2024 | concluído | [Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI4/blob/37bd48d8d9818d43293126a88d987c9585986582/RELATO%CC%81RIO%201%20api4.pdf) | 
-|02|  18/10/2024| a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/46389e039e3c8987254460a95131d1c3ce82c2bf/RELAT%C3%93RIO%202.pdf) | 
-|03|  08/11/2024 | a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/9f7c8c5eaeb4a7046b96210fa9a8fbdded046d47/RELAT%C3%93RIO%203.pdf) | 
-|04|  29/11/2024 | a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/48d7eaec49e91dd9ee92720e098a15f446de91fa/RELAT%C3%93RIO%204.pdf)  | 
-|Feira de Soluções|12/12/2024 |a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/17aed8648660c88382e8edead8be521be1bb64a1/Feira_Solucoes.pptx) | 
+|02|  18/10/2024| a fazer |[Ver Relatório]() | 
+|03|  08/11/2024 | a fazer |[Ver Relatório]() | 
+|04|  29/11/2024 | a fazer |[Ver Relatório]()  | 
+|Feira de Soluções|12/12/2024 |a fazer |[Ver Relatório]() | 
 
 
 # Requisitos
