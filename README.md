@@ -109,11 +109,10 @@ Requisitos não funcionais
 - [x] Analisar dados
 
 #### Sprint 2
-- [ ] Tratar dados no Phython 
+- [ ] Criação de código para tratar os dados no Phython
 - [ ] Calcular a prancha média operacional mensal
 - [ ] Criar gráfico de tendência do produto
 - [ ] Calcular o tempo de processamento e espera dos shiploaders
-- [ ] Aplicação do Filtro pela carga selecionada
 - [ ] Desenvolvimento protótipo do dashboard
 
 #### Sprint 3
