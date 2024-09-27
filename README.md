@@ -104,11 +104,11 @@ Requisitos não funcionais
      #### Sprint 1
 - [x] Criar backlogs
 - [x] Criação do Repositório no GitHub
-- [x] Tratar dados no SQL 
 - [x] Estudar linguagem de programação R
 - [x] Desenvolvimento e aprendizagem da metodologia DEA
 
 #### Sprint 2
+- [ ] Tratar dados no Phython 
 - [ ] Calcular a prancha média operacional mensal
 - [ ] Criar gráfico de tendência do produto
 - [ ] Calcular o tempo de processamento e espera dos shiploaders
