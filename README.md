@@ -106,6 +106,7 @@ Requisitos não funcionais
 - [x] Criação do Repositório no GitHub
 - [x] Estudar linguagem de programação R
 - [x] Desenvolvimento e aprendizagem da metodologia DEA
+- [x] Analisar dados
 
 #### Sprint 2
 - [ ] Tratar dados no Phython 
