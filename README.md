@@ -109,11 +109,11 @@ Requisitos não funcionais
 - [x] Analisar dados
 
 #### Sprint 2
-- [ ] Criação de código para tratar os dados no Phython
-- [ ] Calcular a prancha média operacional mensal
-- [ ] Criar gráfico de tendência do produto
-- [ ] Calcular o tempo de processamento e espera dos shiploaders
-- [ ] Desenvolvimento protótipo do dashboard
+- [x] Criação de código para tratar os dados no Phython
+- [x] Calcular a prancha média operacional mensal
+- [x] Criar gráfico de tendência do produto
+- [x] Calcular o tempo de processamento e espera dos shiploaders
+- [x] Desenvolvimento protótipo do dashboard
 
 #### Sprint 3
 - [ ] Elaborar de um ranking de eficiência para os 10 principais terminais de movimentação de graneis de milho
