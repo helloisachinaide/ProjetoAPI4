@@ -112,8 +112,9 @@ Requisitos não funcionais
 - [x] Criação de código para tratar os dados no Phython
 - [x] Calcular a prancha média operacional mensal
 - [x] Criar gráfico de tendência do produto
-- [x] Calcular o tempo de processamento e espera dos shiploaders
+- [x] Calcular o tempo de processamento dos shiploaders
 - [x] Desenvolvimento protótipo do dashboard
+- [x] Variavéis DEA
 
 #### Sprint 3
 - [ ] Elaborar de um ranking de eficiência para os 10 principais terminais de movimentação de graneis de milho
