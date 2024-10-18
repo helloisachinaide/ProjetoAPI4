@@ -159,9 +159,7 @@ Clique aqui para acessar o código:
 
 # Dashboard
 
-Clique aqui para analisar o nosso desenvolvimento do dashboard:
-
-<a href=""> Power BI  </a>
+![dash](https://github.com/helloisachinaide/ProjetoAPI4/blob/2c7ba61aa6e17b9cb090821efb1d636537a621b5/DASH%20-%20SPRINT%202.jpeg)
 
 # Método DEA 
 
