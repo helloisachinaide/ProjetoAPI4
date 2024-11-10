@@ -117,12 +117,9 @@ Requisitos não funcionais
 - [x] Variavéis DEA
 
 #### Sprint 3
-- [ ] Elaborar de um ranking de eficiência para os 10 principais terminais de movimentação de graneis de milho
-- [ ] Projeção estatísticas dos terminais portuários
-- [ ] Criação do código para analisar tempo de operação
-- [ ] Análise do tempo de espera para atracação
-- [ ] Rankeamento dos portos por meio da aplicação do DEA
-- [ ] Projeção de tendência da produtividade dos shiploaders
+- [x] Elaborar de um ranking de eficiência para os 6 principais terminais de movimentação de graneis de milho
+- [x] Análise do tempo de espera para atracação
+- [x] Rankeamento dos portos por meio da aplicação do DEA
 
 
 #### Sprint 4
