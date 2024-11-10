@@ -158,7 +158,7 @@ Clique aqui para acessar o código:
 
 ![dash](https://github.com/helloisachinaide/ProjetoAPI4/blob/2c7ba61aa6e17b9cb090821efb1d636537a621b5/DASH%20-%20SPRINT%202.jpeg)
 
-# Método DEA 
+
 
 Clique aqui para acessar o código:
 
