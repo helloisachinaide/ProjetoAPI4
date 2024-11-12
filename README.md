@@ -119,6 +119,7 @@ Requisitos não funcionais
 #### Sprint 3
 - [x] Elaborar de um ranking de eficiência para os 6 principais terminais de movimentação de graneis de milho por meio do DEA
 - [x] Análise do tempo de espera e operação
+- [x] Ajuste no dashboard
 
 
 #### Sprint 4
