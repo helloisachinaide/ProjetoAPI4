@@ -149,7 +149,7 @@ Requisitos não funcionais
 
 Clique aqui para acessar o código:
 
-<a href="https://github.com/helloisachinaide/ProjetoAPI4/blob/173c9e779b1bd6cddc852d26291a4f1cca0c6907/api_4.ipynb"> Phython </a>
+<a href="https://colab.research.google.com/drive/1yBmpH12KLuFQcmD0Kjxgq6GC3MxB-mlR?usp=sharing"> Phython </a>
 
 ![image](https://github.com/helloisachinaide/ProjetoAPI4/blob/526a09587087c22471bbdb1a3b18da963915fea7/PBIDesktop_XOW4gzlFIC.gif)
 
