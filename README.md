@@ -151,6 +151,8 @@ Clique aqui para acessar o código:
 
 <a href="https://colab.research.google.com/drive/1yBmpH12KLuFQcmD0Kjxgq6GC3MxB-mlR?usp=sharing"> Phython </a>
 
+- Dashboard
+
 ![image](https://github.com/helloisachinaide/ProjetoAPI4/blob/526a09587087c22471bbdb1a3b18da963915fea7/PBIDesktop_XOW4gzlFIC.gif)
 
 ![image](https://github.com/helloisachinaide/ProjetoAPI4/blob/3089c65d030ecabb78c8285c78dcff27e023d392/PBIDesktop_OLgBtIc3qn.gif)
