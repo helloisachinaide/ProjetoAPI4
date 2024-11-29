@@ -10,7 +10,6 @@ Nós, alunos do 4º semestre do curso de Logística da Fatec, desenvolvemos este
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
-* [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 * [MVP do produto](#mvp-do-produto)
 * [Dashboard](#dashboard)
@@ -133,16 +132,6 @@ Requisitos não funcionais
 </div>
 </div>
 
-
-# Burndown
-
-- SPRINT 1
-
-![sprint backlog](https://github.com/helloisachinaide/ProjetoAPI4/blob/b18151edb50158d5359ed9f8b8c2c30993f6adc3/burndown%20_1.jpeg)
-
-- SPRINT2 2
- 
-![sprint backlog](https://github.com/helloisachinaide/ProjetoAPI4/blob/7bb575ef11a600686220aaef3aa137b3e374f6d3/5cea4fd1-0ae1-4529-a1ea-f85759a8450e.jpg)
 
 
 
