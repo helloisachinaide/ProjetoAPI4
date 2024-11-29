@@ -123,8 +123,8 @@ Requisitos não funcionais
 
 
 #### Sprint 4
-- [ ] Criação da visualização final em Power BI
-- [ ] Finalização da estrutura 
+- [x] Ajsutes finais do dashboard
+
 
 
 
