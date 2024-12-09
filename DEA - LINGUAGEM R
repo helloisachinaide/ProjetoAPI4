@@ -1,4 +1,4 @@
-> library("Benchmarking")
+> library(Benchmarking)
 Carregando pacotes exigidos: lpSolveAPI
 Carregando pacotes exigidos: ucminf
 Carregando pacotes exigidos: quadprog
@@ -10,76 +10,66 @@ Build 2024/03/13 15:05:00
 Anexando pacote: ‘deaR’
 
 O seguinte objeto é mascarado por ‘package:Benchmarking’:
-  
-  efficiencies
+
+    efficiencies
 
 > library(readxl)
 > library(additiveDEA)
 > library(MultiplierDEA)
-
-Restarting R session...
-
 > install.packages("rio")
 WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
-  
-  https://cran.rstudio.com/bin/windows/Rtools/
-  Instalando pacote em ‘C:/Users/Helloisa/AppData/Local/R/win-library/4.4’
+
+https://cran.rstudio.com/bin/windows/Rtools/
+Instalando pacote em ‘C:/Users/Helloisa/AppData/Local/R/win-library/4.4’
 (como ‘lib’ não foi especificado)
 tentando a URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/rio_1.2.3.zip'
-Content type 'application/zip' length 623558 bytes (608 KB)
-downloaded 608 KB
+Content type 'application/zip' length 623729 bytes (609 KB)
+downloaded 609 KB
 
 pacote ‘rio’ desempacotado com sucesso e somas MD5 verificadas
 
 Os pacotes binários baixados estão em
-C:\Users\Helloisa\AppData\Local\Temp\RtmpuiPMho\downloaded_packages
+	C:\Users\Helloisa\AppData\Local\Temp\Rtmp2V9C2U\downloaded_packages
 > library(rio)
 Some optional R packages were not installed and therefore some file formats are not supported. Check file support with show_unsupported_formats()
 Mensagen de aviso:
-  pacote ‘rio’ foi compilado no R versão 4.4.2 
-> arquivo <- "C:/Users/Helloisa/OneDrive/Área de Trabalho/DEA.txt"
+pacote ‘rio’ foi compilado no R versão 4.4.2 
+> arquivo <- "C:/Users/Helloisa/Downloads/dea[2].txt"
 > Data <- read.csv(arquivo, header = TRUE)
 > View(Data)
-> colunas <- colnames(Data)
-> print(colunas)
+> Colunas <- colnames(Data)
+> print(Colunas)
 [1] "Complexo.Portuário" "DMU"                "Número.de.berços"   "Movimentação.Anual"
 [5] "prancha.media"     
+
 > x<-as.matrix(with(Data, cbind(Número.de.berços)))
+> y<-as.matrix(with(Data, cbind(Movimentação.Anual, prancha.media)))]
+Erro: ']' inesperado em "y<-as.matrix(with(Data, cbind(Movimentação.Anual, prancha.media)))]"
 > y<-as.matrix(with(Data, cbind(Movimentação.Anual, prancha.media)))
 > x
-Número.de.berços
-[1,]                5
-[2,]                7
-[3,]               14
-[4,]               10
-[5,]               18
-[6,]               16
+      Número.de.berços
+ [1,]                4
+ [2,]                5
+ [3,]                7
+ [4,]                6
+ [5,]                9
+ [6,]                8
+ [7,]                3
+ [8,]                1
+ [9,]                4
+[10,]                2
 > y
-Movimentação.Anual prancha.media
-[1,]           25331034       2127.35
-[2,]           19756370        675.30
-[3,]           17054731       1248.37
-[4,]           30430860        587.70
-[5,]           62805581       1241.90
-[6,]           24950646        819.60
-> x
-Número.de.berços
-[1,]                5
-[2,]                7
-[3,]               14
-[4,]               10
-[5,]               18
-[6,]               16
-> y
-Movimentação.Anual prancha.media
-[1,]           25331034       2127.35
-[2,]           19756370        675.30
-[3,]           17054731       1248.37
-[4,]           30430860        587.70
-[5,]           62805581       1241.90
-[6,]           24950646        819.60
-> library(MultiplierDEA)
-Carregando pacotes exigidos: lpSolveAPI
+      Movimentação.Anual prancha.media
+ [1,]          7434896.5       2690.11
+ [2,]          3605792.0        646.76
+ [3,]          2642599.9       3049.53
+ [4,]          5042682.6        739.36
+ [5,]         12575815.1       1475.72
+ [6,]          5187137.3        861.79
+ [7,]           283011.2       1095.37
+ [8,]           256529.0        688.54
+ [9,]           345642.7        830.23
+[10,]           513840.0        263.56
 > DeaMultiplierModel(x=x,y=y,rts='crs',orientation='input')
 $rts
 [1] "crs"
@@ -88,91 +78,131 @@ $Orientation
 [1] "Input"
 
 $InputValues
-     Número.de.berços
-DMU1                5
-DMU2                7
-DMU3               14
-DMU4               10
-DMU5               18
-DMU6               16
+      Número.de.berços
+DMU1                 4
+DMU2                 5
+DMU3                 7
+DMU4                 6
+DMU5                 9
+DMU6                 8
+DMU7                 3
+DMU8                 1
+DMU9                 4
+DMU10                2
 
 $OutputValues
-     Movimentação.Anual prancha.media
-DMU1           25331034       2127.35
-DMU2           19756370        675.30
-DMU3           17054731       1248.37
-DMU4           30430860        587.70
-DMU5           62805581       1241.90
-DMU6           24950646        819.60
+      Movimentação.Anual prancha.media
+DMU1           7434896.5       2690.11
+DMU2           3605792.0        646.76
+DMU3           2642599.9       3049.53
+DMU4           5042682.6        739.36
+DMU5          12575815.1       1475.72
+DMU6           5187137.3        861.79
+DMU7            283011.2       1095.37
+DMU8            256529.0        688.54
+DMU9            345642.7        830.23
+DMU10           513840.0        263.56
 
 $Efficiency
-           Eff
-DMU1 1.0000000
-DMU2 0.5570911
-DMU3 0.2404551
-DMU4 0.6006636
-DMU5 0.6887202
-DMU6 0.3078073
+            Eff
+DMU1  1.0000000
+DMU2  0.3879857
+DMU3  0.6358236
+DMU4  0.4521634
+DMU5  0.7517591
+DMU6  0.3488372
+DMU7  0.5302863
+DMU8  1.0000000
+DMU9  0.3015771
+DMU10 0.1943958
 
 $Lambda
-          DMU1 DMU2 DMU3 DMU4 DMU5 DMU6
-DMU1 1.0000000    0    0    0    0    0
-DMU2 0.7799275    0    0    0    0    0
-DMU3 0.6732742    0    0    0    0    0
-DMU4 1.2013272    0    0    0    0    0
-DMU5 2.4793927    0    0    0    0    0
-DMU6 0.9849833    0    0    0    0    0
+             DMU1 DMU2 DMU3 DMU4 DMU5 DMU6 DMU7      DMU8 DMU9 DMU10
+DMU1  1.000000000    0    0    0    0    0    0 0.0000000    0     0
+DMU2  0.484982135    0    0    0    0    0    0 0.0000000    0     0
+DMU3  0.234186482    0    0    0    0    0    0 3.5140189    0     0
+DMU4  0.678245166    0    0    0    0    0    0 0.0000000    0     0
+DMU5  1.691458005    0    0    0    0    0    0 0.0000000    0     0
+DMU6  0.697674452    0    0    0    0    0    0 0.0000000    0     0
+DMU7  0.000000000    0    0    0    0    0    0 1.5908589    0     0
+DMU8  0.000000000    0    0    0    0    0    0 1.0000000    0     0
+DMU9  0.005646877    0    0    0    0    0    0 1.1837210    0     0
+DMU10 0.064615056    0    0    0    0    0    0 0.1303314    0     0
 
 $HCU_Input
-     Número.de.berços
-DMU1         5.000000
-DMU2         3.899637
-DMU3         3.366371
-DMU4         6.006636
-DMU5        12.396963
-DMU6         4.924917
+      Número.de.berços
+DMU1         4.0000000
+DMU2         1.9399285
+DMU3         4.4507649
+DMU4         2.7129807
+DMU5         6.7658320
+DMU6         2.7906978
+DMU7         1.5908589
+DMU8         1.0000000
+DMU9         1.2063085
+DMU10        0.3887916
 
 $HCU_Output
-     Movimentação.Anual prancha.media
-DMU1           25331034      2127.350
-DMU2           19756370      1659.179
-DMU3           17054731      1432.290
-DMU4           30430860      2555.643
-DMU5           62805581      5274.536
-DMU6           24950646      2095.404
+      Movimentação.Anual prancha.media
+DMU1           7434896.5      2690.110
+DMU2           3605792.0      1304.655
+DMU3           2642599.9      3049.530
+DMU4           5042682.6      1824.554
+DMU5          12575815.1      4550.208
+DMU6           5187137.3      1876.821
+DMU7            408101.4      1095.370
+DMU8            256529.0       688.540
+DMU9            345642.7       830.230
+DMU10           513840.0       263.560
 
 $vx
-     Número.de.berços
-DMU1       0.20000000
-DMU2       0.14285714
-DMU3       0.07142857
-DMU4       0.10000000
-DMU5       0.05555556
-DMU6       0.06250000
+      Número.de.berços
+DMU1         0.2500000
+DMU2         0.2000000
+DMU3         0.1428571
+DMU4         0.1666667
+DMU5         0.1111111
+DMU6         0.1250000
+DMU7         0.3333333
+DMU8         1.0000000
+DMU9         0.2500000
+DMU10        0.5000000
 
 $uy
-     Movimentação.Anual prancha.media
-DMU1       0.000000e+00  0.0004700684
-DMU2       2.819805e-08  0.0000000000
-DMU3       1.409902e-08  0.0000000000
-DMU4       1.973863e-08  0.0000000000
-DMU5       1.096591e-08  0.0000000000
-DMU6       1.233665e-08  0.0000000000
+      Movimentação.Anual prancha.media
+DMU1        1.345009e-07  0.0000000000
+DMU2        1.076007e-07  0.0000000000
+DMU3        2.065867e-09  0.0002067087
+DMU4        8.966724e-08  0.0000000000
+DMU5        5.977816e-08  0.0000000000
+DMU6        6.725043e-08  0.0000000000
+DMU7        0.000000e+00  0.0004841161
+DMU8        0.000000e+00  0.0014523484
+DMU9        3.615268e-09  0.0003617402
+DMU10       7.230536e-09  0.0007234803
 
 $Free_Weights
-     F1 F2
-DMU1 NA NA
-DMU2 NA NA
-DMU3 NA NA
-DMU4 NA NA
-DMU5 NA NA
-DMU6 NA NA
+      F1 F2
+DMU1  NA NA
+DMU2  NA NA
+DMU3  NA NA
+DMU4  NA NA
+DMU5  NA NA
+DMU6  NA NA
+DMU7  NA NA
+DMU8  NA NA
+DMU9  NA NA
+DMU10 NA NA
 
 $Model_Status
-     code                   desc
-DMU1    0 optimal solution found
-DMU2    0 optimal solution found
-DMU3    0 optimal solution found
-DMU4    0 optimal solution found
-DMU5    0 optimal solution found
-DMU6    0 optimal solution found
+      code                   desc
+DMU1     0 optimal solution found
+DMU2     0 optimal solution found
+DMU3     0 optimal solution found
+DMU4     0 optimal solution found
+DMU5     0 optimal solution found
+DMU6     0 optimal solution found
+DMU7     0 optimal solution found
+DMU8     0 optimal solution found
+DMU9     0 optimal solution found
+DMU10    0 optimal solution found
